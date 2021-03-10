@@ -1,6 +1,5 @@
 function main() {
-    // Only change code below this line
-
+    
     // Komentar u jednoj liniji
 
     /* komentar
@@ -9,8 +8,7 @@ function main() {
     vise 
     linija*/
 
-    // Only change code above this line
-};
+}
 
 console.log(main());
 
